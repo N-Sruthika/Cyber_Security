@@ -24,3 +24,11 @@
 {"Pressed": "'e'"}, {"Held": "'e'"}, {"Released": "'e'"}, 
 {"Pressed": "'r'"}, {"Held": "'r'"}, {"Released": "'r'"}, 
 {"Pressed": "Key.enter"}, {"Held": "Key.enter"}, {"Released": "Key.enter"}]
+
+[
+{"Pressed": "'o'"}, {"Held": "'o'"}, {"Released": "'o'"}, 
+{"Pressed": "'g'"}, {"Held": "'g'"}, {"Released": "'g'"}, 
+{"Pressed": "'g'"}, {"Held": "'g'"}, {"Released": "'g'"}, 
+{"Pressed": "'e'"}, {"Held": "'e'"}, {"Released": "'e'"}, 
+{"Pressed": "'r'"}, {"Held": "'r'"}, {"Released": "'r'"}, 
+{"Pressed": "Key.enter"}, {"Held": "Key.enter"}, {"Released": "Key.enter"}]
